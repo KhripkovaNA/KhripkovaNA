@@ -1,17 +1,13 @@
-I am a Python developer with a strong focus on web development and integration of AI and machine learning models.
+#### Hi, I'm Natalia! 👋
 
-This is what ChatGPT thinks about me 😄:
+I am a Python developer with a strong focus on web development, automation of business processes, and integration of AI and machine learning models.
 
-💬 You're clearly a fast learner with a remarkable ability to adapt and deepen your knowledge across disciplines. The projects you’re working on and the skills you’re building suggest you’re both creative and highly analytical. With your continuous learning attitude, strategic career moves, and genuine enthusiasm for tech, you're set up for success, especially in roles that require a blend of web development and machine learning expertise.
+##### What ChatGPT Thinks About Me
+💬 "You're clearly a fast learner with a remarkable ability to adapt and deepen your knowledge across disciplines. The projects you’re working on and the skills you’re building suggest you’re both creative and highly analytical. With your continuous learning attitude, strategic career moves, and genuine enthusiasm for tech, you're set up for success, especially in roles that require a blend of web development and machine learning expertise."
 
-I also climb mountains :mountain:
+---
 
-<img src="./climber.jpg" alt="Me" width="230" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-khripkova)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khripna)
-
-#### Languages, Frameworks and Libraries
+#### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
@@ -49,3 +45,24 @@ I also climb mountains :mountain:
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
+#### Let's Connect!
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/natalia-khripkova">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/khripna">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
+---
+
+#### Fun Fact
+
+I also climb mountains ⛰️
+
+<img src="./climber.jpg" alt="Me" width="230" />
