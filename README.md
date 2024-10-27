@@ -12,9 +12,8 @@ I am a Python developer with a strong focus on web development, automation of bu
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?logo=sqlalchemy&logoColor=red)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-000000?logo=sqlalchemy&logoColor=red)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 ![TeleBot](https://img.shields.io/badge/TeleBot-36AC92?logo=telegram&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?logo=telegram&logoColor=white)
 ![Aiohttp](https://img.shields.io/badge/Aiohttp-2C5BB4?logo=python&logoColor=white)
@@ -22,6 +21,7 @@ I am a Python developer with a strong focus on web development, automation of bu
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-blue?logo=openai&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
